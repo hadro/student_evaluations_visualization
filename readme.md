@@ -10,4 +10,5 @@ Data is in this form:
 
 |evaluation question|semester 1 score|semester 2 score|weighted average|display order|display text of evaluation question|
 |--------------------|---------------|----------------|----------------|-------------|-----------------------------------|
-|Was a great teacher|3.5|3.4|3.42|1|Was an effective teacher|
+|Would recommend class|3.5|3.4|3.42|2|I would recommend class to other students|
+|Would recommend instructor|3.6|3.4|3.51|1|I would recommend instructor to other students|
